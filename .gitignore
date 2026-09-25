@@ -1,4 +1,9 @@
+# Documentation - kept out of the repository
+*.docx
+*.pdf
+~$*
+
+# Python and editor files
 __pycache__/
 *.pyc
-spyder-env/
-.env
+.spyproject/

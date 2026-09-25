@@ -1,11 +1,11 @@
-Name,English,Informatics Practices,Accountancy,Business Studies,Economics,Physical Education,Islamic Education,Average Score,Grade,Status
-Rasheed Ahamed,69,81,65,66,67,78,83,72.71,Pass,Passing
-Aisha Khan,48,52,89,37,51,63,92,61.71,Needs Improvement,Failing
-Liam O'Connor,61,92,73,95,90,50,0,65.86,Needs Improvement,Failing
-Sofia Martinez,75,81,37,76,92,91,0,64.57,Needs Improvement,Failing
-Chen Wei,71,83,68,89,82,60,0,64.71,Needs Improvement,Failing
-Amara Okafor,95,45,48,56,87,47,0,54.00,Needs Improvement,Failing
-Yuki Tanaka,38,23,18,25,41,8,0,21.86,Fail,Failing
-Lucas Silva,82,49,87,81,89,67,0,65.00,Needs Improvement,Failing
-Elena Petrova,38,70,56,54,38,77,0,47.57,Needs Improvement,Failing
-Omar Al-Fayed,78,91,62,83,78,86,53,75.86,Pass,Passing
+Roll No,Name,English,Informatics Practices,Accountancy,Business Studies,Economics,Physical Education,Islamic Education,Days Present,Punctuality,Homework,Class Participation,Behaviour,Subjects Taken,Total Marks,Average Score,Grade,Status,Rank,Attendance %,Conduct Score,Conduct Grade
+1,Rasheed Ahamed,69,81,65,66,67,78,83,170,5,4,4,5,7,509,72.71,Top Performer,Passing,6,94.4,4.5,Excellent
+2,Aisha Khan,48,52,89,37,51,63,92,158,4,3,4,4,7,432,61.71,Average,Passing,8,87.8,3.75,Good
+3,Liam O'Connor,61,92,73,95,90,50,,165,4,4,5,4,6,461,76.83,Top Performer,Passing,1,91.7,4.25,Good
+4,Sofia Martinez,75,81,37,76,92,91,,172,5,4,4,5,6,452,75.33,Top Performer,Passing,5,95.6,4.5,Excellent
+5,Chen Wei,71,83,68,89,82,60,,168,5,5,4,5,6,453,75.5,Top Performer,Passing,4,93.3,4.75,Excellent
+6,Amara Okafor,95,45,48,56,87,47,,150,3,3,4,4,6,378,63.0,Average,Passing,7,83.3,3.5,Good
+7,Yuki Tanaka,38,23,18,25,41,8,,118,2,2,2,3,6,153,25.5,Fail,Failing,10,65.6,2.25,Needs Improvement
+8,Lucas Silva,82,49,87,81,89,67,,160,4,3,3,4,6,455,75.83,Top Performer,Passing,3,88.9,3.5,Good
+9,Elena Petrova,38,70,56,54,38,77,,130,3,2,3,3,6,333,55.5,Average,Passing,9,72.2,2.75,Satisfactory
+10,Omar Al-Fayed,78,91,62,83,78,86,53,175,5,5,5,5,7,531,75.86,Top Performer,Passing,2,97.2,5.0,Excellent
